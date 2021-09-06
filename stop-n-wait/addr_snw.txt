@@ -1,0 +1,3 @@
+/Users/Lin-Zexin/Desktop/EE4204/Lab\ assignment/demo/Ex4/stop-n-wait/
+gcc snw_ser.c -o ser
+gcc snw_client.c -o client

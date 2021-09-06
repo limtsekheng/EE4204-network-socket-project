@@ -1,0 +1,4 @@
+/Users/Lin-Zexin/Desktop/EE4204/Lab\ assignment/demo/Ex4/3step/
+
+gcc ser.c -o ser
+gcc client.c -o client
